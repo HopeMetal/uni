@@ -1,0 +1,4 @@
+﻿  Lab02.cpp
+d:\liudas\lab02\lab02\lab02\lab02.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab02.vcxproj -> D:\Liudas\Lab02\Lab02\Debug\Lab02.exe
+  Lab02.vcxproj -> D:\Liudas\Lab02\Lab02\Debug\Lab02.pdb (Partial PDB)
